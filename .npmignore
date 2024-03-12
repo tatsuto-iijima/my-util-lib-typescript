@@ -1,0 +1,6 @@
+*.ts
+!*.d.ts
+
+jest.config.json
+tsconfig.json
+*.tgz
